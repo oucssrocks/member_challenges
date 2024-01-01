@@ -3,3 +3,5 @@
 A base image can mean a lot to the admin's input. 
 
 ![](oucss_banner.jpg)
+
+Flag format: **OUCSS{Your_flag}**
